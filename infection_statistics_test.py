@@ -15,3 +15,4 @@ class InfectionStatisticsTest(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+    print ("And that's all, folks!")
